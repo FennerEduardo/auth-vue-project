@@ -1,5 +1,11 @@
 <script setup lang="ts">
 
+
+
 </script>
 
-<template>home</template>
+<template>
+  <header>
+
+  </header>
+</template>
